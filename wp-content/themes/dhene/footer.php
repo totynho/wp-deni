@@ -4,7 +4,7 @@
 </div>
 
 </div>
-<script type="text/javascript" src="/wp-content/themes/dhene/js/jquery-3.1.1.min.js"></script>
+<script type="text/javascript" src="/wp-content/themes/dhene/js/jquery-3.1.1.js"></script>
 <script type="text/javascript" src="/wp-content/themes/dhene/js/materialize.min.js"></script>
 <script type="text/javascript" src="/wp-content/themes/dhene/js/main.js"></script>
 </body>
